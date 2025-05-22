@@ -8,16 +8,20 @@
     "skills": {
         "hardSkills": [
             {
-                "nome": "JavaScript",
-                "logo": "TODO"
+                "name": "Git",
+                "logo": "https://raw.githubusercontent.com/marcella2808/dio-desafio-portfolio/ce0f966cb0dfe207aa75921657982b5952ad5f77/assets/images/languages-logos/git-logo.svg"
             },
             {
-                "nome": "Python",
-                "logo": "TODO"
+                "name": "React",
+                "logo": "https://raw.githubusercontent.com/marcella2808/dio-desafio-portfolio/ce0f966cb0dfe207aa75921657982b5952ad5f77/assets/images/languages-logos/react-logo.svg"
             },
             {
-                "nome": "Java",
-                "logo": "TODO"
+                "name": "Java",
+                "logo": "https://raw.githubusercontent.com/marcella2808/dio-desafio-portfolio/refs/heads/main/assets/images/languages-logos/java-logo.svg"
+            },
+            {
+                "name": "Python",
+                "logo": "https://raw.githubusercontent.com/marcella2808/dio-desafio-portfolio/refs/heads/main/assets/images/languages-logos/python-logo.svg"
             }
         ],
         "softSkills": ["Comunicação", "Empatia", "Organização", "Trabalho em equipe"]
