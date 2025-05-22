@@ -47,15 +47,12 @@
             "git": true
         }
     ],
-    "experiencias": [
+    "professionalExperiences": [
         {
-            "nome": "Education Tech Lead ",
-            "descricao": "",
-            "instituicao": "Digital Innovation One (DIO)",
-            "periodo": {
-                "inicio": "03/2021",
-                "fim": "Atualmente"
-            }
+            "name": "Dev Backend Freelancer",
+            "description": "Criação de uma API RESTful em Java Spring",
+            "instituicao": "Grupo TOP",
+            "period": "Abr 2024 - Ago 2024"
         }
     ]
 }
