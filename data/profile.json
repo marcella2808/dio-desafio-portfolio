@@ -26,15 +26,9 @@
         ],
         "softSkills": ["Comunicação", "Empatia", "Organização", "Trabalho em equipe"]
     },
-    "idiomas": [
-        {
-            "nome": "Português",
-            "nivel": "Nativo"
-        },
-        {
-            "nome": "Inglês",
-            "nivel": "Intermediário"
-        }
+    "languages": [
+        "Português BR",
+        "Inglês (intermediário)"
     ],
     "educacao": [
         {
