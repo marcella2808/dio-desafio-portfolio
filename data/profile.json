@@ -33,17 +33,17 @@
     "portfolio": [
         {
             "name": "Pokedéx",
-            "gitHub": "https://github.com/marcella2808/dio-desafio-pokedex",
+            "url": "https://github.com/marcella2808/dio-desafio-pokedex",
             "git": true
         },
         {
             "name": "Clone YouTube",
-            "gitHub": "https://github.com/marcella2808/dio-desafio-css-grid",
+            "url": "https://github.com/marcella2808/dio-desafio-css-grid",
             "git": true
         },
         {
             "name": "Clone Discord",
-            "gitHub": "https://github.com/marcella2808/dio-desafio-responsividade",
+            "url": "https://github.com/marcella2808/dio-desafio-responsividade",
             "git": true
         }
     ],
