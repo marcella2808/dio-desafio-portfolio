@@ -20,16 +20,16 @@
 <body>
     <main class="main">
         <header class="header">
-            <img src="/assets/images/profile.jpg" alt="Foto de Marcella Carneiro" class="photo">
-            <h1 class="title">Olá, <br> eu sou a Marcella Carneiro</h1>
+            <img src="/assets/images/image.png" alt="Foto de Perfil" class="photo" id="profile.photo">
+            <h1 class="title">Olá, <br> eu sou <span id="profile.name">Carregando...</span></h1>
             <div class="information">
-                <p class="job">Junior Developer</p>
-                <p class="location">Taboão da Serra - SP</p>
-                <p class="phone"><a href="tel:(11) 9999-9999">(11) 9999-9999</a></p>
-                <p class="email"><a href="mailto:e@mail.com">e@mail.com</a></p>
+                <p class="job" id="profile.job">Carregando...</p>
+                <p class="location" id="profile.location">Carregando...</p>
+                <p class="phone"><a href="tel:(11) 9999-9999" id="profile.phone">Carregando...</a></p>
+                <p class="email"><a href="mailto:e@mail.com" id="profile.email">Carregando...</a></p>
             </div>
         </header>
-        <section class="acordeon open">
+        <section class="acordeon">
             <button class="trigger" type="button">
                 <h2>Skills</h2>
             </button>
@@ -37,29 +37,15 @@
                 <div class="skills">
                     <section class="tools">
                         <h3>Hard skills:</h3>
-                        <ul>
-                            <li>
-                                <img src="/assets/images/languages-logos/java-logo.svg" alt="React" title="React">
-                            </li>
-                            <li>
-                                <img src="/assets/images/languages-logos/python-logo.svg" alt="React" title="React">
-                            </li>
-                            <li>
-                                <img src="/assets/images/languages-logos/react-logo.svg" alt="React" title="React">
-                            </li>
-                            <li>
-                                <img src="/assets/images/languages-logos/git-logo.svg" alt="React" title="React">
-                            </li>
+                        <ul id="profile.skills.hardSkills">
                         </ul>
                     </section>
                     <section class="personal">
                         <h3>Soft skills:</h3>
-                        <ul>
-                            <li>Liderança</li>
-                            <li>Facilidade de comunicação</li>
-                            <li>Organização</li>
-                            <li>Trabalho em equipe</li>
-                            <li>Flexibilidade</li>
+                        <ul id="profile.skills.softSkills">
+                            <li>Carregando...</li>
+                            <li>Carregando...</li>
+                            <li>Carregando...</li>
                         </ul>
                     </section>
                 </div>
@@ -70,11 +56,8 @@
                 <h2>Idiomas</h2>
             </button>
             <div class="content">
-                <ul class="languages">
-                    <li>Português</li>
-                    <li>Inglês</li>
-                    <li>Espanhol</li>
-                    <li>Italiano</li>
+                <ul class="languages" id="profile.languages">
+                    <li>Carregando...</li>
                 </ul>
             </div>
         </section>
@@ -83,19 +66,8 @@
                 <h2>Portfólio</h2>
             </button>
             <div class="content">
-                <ul class="portfolio">
-                    <li>
-                        <h3 class="title github">Criando um app de lembrete</h3>
-                        <a href="https://www.google.com" target="_blank">www.google.com</a>
-                    </li>
-                    <li>
-                        <h3 class="title github">Criando um app de lembrete</h3>
-                        <a href="https://www.google.com" target="_blank">www.google.com</a>
-                    </li>
-                    <li>
-                        <h3 class="title github">Criando um app de lembrete</h3>
-                        <a href="https://www.google.com" target="_blank">www.google.com</a>
-                    </li>
+                <ul class="portfolio" id="profile.portfolio">
+
                 </ul>
             </div>
         </section>
@@ -104,33 +76,17 @@
                 <h2>Experiência profissional</h2>
             </button>
             <div class="content">
-                <ul class="experience">
-                    <li>
-                        <h3 class="title">Front-end Developer / dio.me</h3>
-                        <p class="period">Jan 2020 - Current</p>
-                        <p>
-                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Maiores impedit distinctio
-                            doloribus
-                            ab quisquam praesentium quae, eaque voluptatum, unde beatae quidem est maxime repellat
-                            explicabo nesciunt atque quia culpa vero.
-                        </p>
-                    </li>
-                    <li>
-                        <h3 class="title">Front-end Developer / dio.me</h3>
-                        <p class="period">Jan 2020 - Current</p>
-                        <p>
-                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Maiores impedit distinctio
-                            doloribus
-                            ab quisquam praesentium quae, eaque voluptatum, unde beatae quidem est maxime repellat
-                            explicabo nesciunt atque quia culpa vero.
-                        </p>
-                    </li>
+                <ul class="experience" id="profile.professionalExperiences">
+                    
+                
                 </ul>
             </div>
         </section>
 
     </main>
     <script src="/assets/js/acordeon.js"></script>
+    <script src="/assets/js/api.js"></script>
+    <script src="/assets/js/main.js"></script>
 </body>
 
 </html>
