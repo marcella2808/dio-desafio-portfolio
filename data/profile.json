@@ -1,12 +1,9 @@
 {
-  "nome": "Marcella Carneiro",
-  "titulo": "Dev Full Stack",
-  "localidade": {
-    "cidade": "Taboão da Serra",
-    "estado": "São Paulo",
-    "pais": "Brasil"
-  },
-  "telefone": "(11) 99999-9999",
+  "name": "Marcella Carneiro",
+  "photo": "https://raw.githubusercontent.com/marcella2808/dio-desafio-portfolio/refs/heads/main/assets/images/profile.jpg",
+  "job": "Dev Full Stack",
+  "location": "Taboão da Serra - SP",
+  "phone": "(11) 99999-9999",
   "email": "marcella.ferreira028@gmail.com",
   "skills": {
     "hardSkills": [
