@@ -1,6 +1,6 @@
 {
     "name": "Marcella Carneiro",
-    "photo": "https://raw.githubusercontent.com/marcella2808/dio-desafio-portfolio/refs/heads/mainassets/images/profile.jpg",
+    "photo": "https://raw.githubusercontent.com/marcella2808/dio-desafio-portfolio/refs/heads/main/assets/images/profile.jpg",
     "job": "Dev Full Stack",
     "location": "Taboão da Serra - SP",
     "phone": "(11) 99999-9999",
@@ -9,19 +9,19 @@
         "hardSkills": [
             {
                 "name": "Git",
-                "logo": "https://raw.githubusercontent.com/marcella2808/dio-desafio-portfolio/ce0f966cb0dfe207aa75921657982b5952ad5f77assets/images/languages-logos/git-logo.svg"
+                "logo": "https://raw.githubusercontent.com/marcella2808/dio-desafio-portfolio/ce0f966cb0dfe207aa75921657982b5952ad5f77/assets/images/languages-logos/git-logo.svg"
             },
             {
                 "name": "React",
-                "logo": "https://raw.githubusercontent.com/marcella2808/dio-desafio-portfolio/ce0f966cb0dfe207aa75921657982b5952ad5f77assets/images/languages-logos/react-logo.svg"
+                "logo": "https://raw.githubusercontent.com/marcella2808/dio-desafio-portfolio/ce0f966cb0dfe207aa75921657982b5952ad5f77/assets/images/languages-logos/react-logo.svg"
             },
             {
                 "name": "Java",
-                "logo": "https://raw.githubusercontent.com/marcella2808/dio-desafio-portfolio/refs/heads/mainassets/images/languages-logos/java-logo.svg"
+                "logo": "https://raw.githubusercontent.com/marcella2808/dio-desafio-portfolio/refs/heads/main/assets/images/languages-logos/java-logo.svg"
             },
             {
                 "name": "Python",
-                "logo": "https://raw.githubusercontent.com/marcella2808/dio-desafio-portfolio/refs/heads/mainassets/images/languages-logos/python-logo.svg"
+                "logo": "https://raw.githubusercontent.com/marcella2808/dio-desafio-portfolio/refs/heads/main/assets/images/languages-logos/python-logo.svg"
             }
         ],
         "softSkills": ["Comunicação", "Empatia", "Organização", "Trabalho em equipe"]
