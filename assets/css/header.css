@@ -12,7 +12,7 @@
     height: 2rem;
     background-repeat: no-repeat;
     background-size: contain;
-    background-image: url('assets/images/icons/header.svg');
+    background-image: url('./assets/images/icons/header.svg');
     position: absolute;
     top: 1rem;
     right: 1rem;
@@ -54,19 +54,19 @@
 }
 
 .information .job::before {
-    background-image: url('assets/images/icons/job-icon.svg');
+    background-image: url('./assets/images/icons/job-icon.svg');
 }
 
 .information .location::before {
-    background-image: url('assets/images/icons/location-icon.svg');
+    background-image: url('./assets/images/icons/location-icon.svg');
 }
 
 .information .phone::before {
-    background-image: url('assets/images/icons/wpp-icon.svg');
+    background-image: url('./assets/images/icons/wpp-icon.svg');
 }
 
 .information .email::before {
-    background-image: url('assets/images/icons/email-icon.svg');
+    background-image: url('./assets/images/icons/email-icon.svg');
 }
 
 @media screen and (min-width: 768px) {
